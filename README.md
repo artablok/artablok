@@ -1,16 +1,18 @@
-## Hi there 👋
+# Arta Blockchain
 
-<!--
-**artablok/artablok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Arta Blockchain is an open infrastructure project focused on building modular digital asset systems and cross-chain financial infrastructure.
 
-Here are some ideas to get you started:
+Core components include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• ART20 token standard  
+• Validator staking architecture  
+• Developer SDK  
+• Node implementation  
+
+## Ecosystem
+
+- arta-core — blockchain core modules  
+- arta-node — node implementation  
+- arta-contracts — smart contracts  
+- arta-sdk — developer SDK  
+- arta-docs — technical documentation
