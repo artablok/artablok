@@ -39,8 +39,10 @@ TINERTIA · USDT.a · USDC.a
 **[pts-historical-restoration](https://github.com/artablok/pts-historical-restoration)**
 Community-led historical restoration of BitShares PTS / ProtoShares infrastructure.
 
-**[pts-wallet-core](https://github.com/artablok/pts-wallet-core)**
-Independent wallet core for the BitShares PTS / ProtoShares historical restoration project.
+**pts-wallet-core** — Independent wallet core for the BitShares PTS /
+ProtoShares historical restoration project (signing, serialization,
+historical claim mechanism). Private repository; reach out if you'd
+like access for research/verification purposes.
 
 ---
 
